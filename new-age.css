@@ -5,7 +5,7 @@
  */
 
 html,
-body {
+body {s
   width: 100%;
   height: 100%;
 }
@@ -15,12 +15,12 @@ body {
 }
 
 a {
-  color: #fdcc52;
+  color: #ffffff;
   transition: all .35s;
 }
 
 a:hover, a:focus {
-  color: #fcbd20;
+  color: #73048f;
 }
 
 hr {
@@ -158,7 +158,7 @@ header.masthead {
   padding-bottom: 100px;
   color: white;
   background: url(../img/bg-pattern.png),#000000;
-  background: url(../img/bg-pattern.png),linear-gradient(to left,#cda434,#000000);
+  background: url(../img/bg-pattern.png),linear-gradient(to left,#7e0263,#000000);
 
 }
 
@@ -404,7 +404,7 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 
 .bg-primary {
   background: #fdcc52;
-  background: linear-gradient(#fdcc52, #fdc539);
+  background: linear-gradient(#58013e, #58354e);
 }
 
 .text-primary {
